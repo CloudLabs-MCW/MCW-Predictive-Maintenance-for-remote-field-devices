@@ -1,0 +1,38 @@
+[ {
+  "Name": "Predictive Maintenance for remote field devices",
+  "Language": "English",
+  "Files": [
+        {
+      "RawFilePath": "https://raw.githubusercontent.com/Ritu786/MCW-Predictive-Maintenance-for-remote-field-devices/stage/Hands-on%20lab/HOL%20step-by-step%20-%20Predictive_00.md",
+      "Order": 1
+    },
+    {
+      "RawFilePath": "https://raw.githubusercontent.com/Ritu786/MCW-Predictive-Maintenance-for-remote-field-devices/stage/Hands-on%20lab/HOL%20step-by-step%20-%20Predictive_01.md",
+      "Order": 2
+    },
+    {
+      "RawFilePath": "https://raw.githubusercontent.com/Ritu786/MCW-Predictive-Maintenance-for-remote-field-devices/stage/Hands-on%20lab/HOL%20step-by-step%20-%20Predictive_02.md",
+      "Order": 3
+    },
+    {
+      "RawFilePath": "https://raw.githubusercontent.com/Ritu786/MCW-Predictive-Maintenance-for-remote-field-devices/stage/Hands-on%20lab/HOL%20step-by-step%20-%20Predictive_03.md",
+      "Order": 4
+    },
+    {
+      "RawFilePath": "https://raw.githubusercontent.com/Ritu786/MCW-Predictive-Maintenance-for-remote-field-devices/stage/Hands-on%20lab/HOL%20step-by-step%20-%20Predictive_04.md",
+      "Order": 5
+    },
+    {
+      "RawFilePath": "https://raw.githubusercontent.com/Ritu786/MCW-Predictive-Maintenance-for-remote-field-devices/stage/Hands-on%20lab/HOL%20step-by-step%20-%20Predictive_05.md",
+      "Order": 6
+    },
+    {
+      "RawFilePath": "https://raw.githubusercontent.com/Ritu786/MCW-Predictive-Maintenance-for-remote-field-devices/stage/Hands-on%20lab/HOL%20step-by-step%20-%20Predictive_06.md",
+      "Order": 7
+    },
+    {
+      "RawFilePath": "https://raw.githubusercontent.com/Ritu786/MCW-Predictive-Maintenance-for-remote-field-devices/stage/Hands-on%20lab/HOL%20step-by-step%20-%20Predictive_07.md",
+      "Order": 8
+    }   
+  ]
+} ]
