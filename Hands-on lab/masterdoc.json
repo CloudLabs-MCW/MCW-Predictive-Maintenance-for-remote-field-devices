@@ -1,0 +1,44 @@
+[
+    {
+      "Name": "MCW-Predictive-Maintenance-for-remote-field-devices",
+      "Language": "English",
+      "Files": [
+        {
+          "RawFilePath": "https://github.com/Kalyani7744/MCW-Predictive-Maintenance-for-remote-field-devices/blob/prod/Hands-on%20lab/Getting-Started.md",
+          "Order": 1  
+        },
+        {
+          "RawFilePath": "https://github.com/Kalyani7744/MCW-Predictive-Maintenance-for-remote-field-devices/blob/prod/Hands-on%20lab/00.md",
+          "Order": 2 
+        },
+        {
+          "RawFilePath": "https://github.com/Kalyani7744/MCW-Predictive-Maintenance-for-remote-field-devices/blob/prod/Hands-on%20lab/01.md",
+          "Order": 3
+        },
+        {
+          "RawFilePath": "https://github.com/Kalyani7744/MCW-Predictive-Maintenance-for-remote-field-devices/blob/prod/Hands-on%20lab/02.md",
+          "Order": 4
+        },
+        {
+          "RawFilePath": "https://github.com/Kalyani7744/MCW-Predictive-Maintenance-for-remote-field-devices/blob/prod/Hands-on%20lab/03.md",
+          "Order": 5
+        },
+        {
+          "RawFilePath": "https://github.com/Kalyani7744/MCW-Predictive-Maintenance-for-remote-field-devices/blob/prod/Hands-on%20lab/04.md",
+          "Order": 6
+        },
+        {
+          "RawFilePath": "https://github.com/Kalyani7744/MCW-Predictive-Maintenance-for-remote-field-devices/blob/prod/Hands-on%20lab/05.md",
+          "Order": 7
+        },
+        {
+          "RawFilePath": "https://github.com/Kalyani7744/MCW-Predictive-Maintenance-for-remote-field-devices/blob/prod/Hands-on%20lab/06.md",
+          "Order": 8
+        },
+        {
+          "RawFilePath": "https://github.com/Kalyani7744/MCW-Predictive-Maintenance-for-remote-field-devices/blob/prod/Hands-on%20lab/07.md",
+          "Order": 9
+        }
+      ]
+    }
+  ]
