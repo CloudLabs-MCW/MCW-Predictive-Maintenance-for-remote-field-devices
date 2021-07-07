@@ -1,4 +1,4 @@
-# Exercise 1: Getting Started with Azure 
+#  Getting Started with Azure 
 
 Duration: 10 mins
 
@@ -52,16 +52,3 @@ Duration: 10 mins
 
    ![](images/rg-lob.png "Resource groups")
 
-13. Click on the azure-arc-data-SUFFIX Resource group and confirm whether you have all the below resources deployed successfully.
-
-   ![](images/portal_resources.PNG "Resource groups")
-
-   * In the Resource group we have one **Virtual Machine**, **Kubernetes Service**, **Storage account** and **Log Analytics workspace** deployed.
-
-   * **Virtual Machine**: You will be using the Virtual Machine which is already open on the left side of the page to perform all the Lab exercises.
-
-   * **Kubernetes Services**: We have already deployed the Azure Arc Data controller on to the Kubernetes Service and in later exercises we will be deploying Azure arc enabled data resources on to the Kubernetes cluster using Azure Arc data services.
-
-   * **Storage Account**: You will use this storage account to backup and restore the database to SQL MI.
-   
-   * **Log Analytics workspace**: You will be using this Log Analytics workspace to upload and view the logs generated from both Postgres Hyperscale and SQL MI servers.
